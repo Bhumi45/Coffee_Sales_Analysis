@@ -62,6 +62,9 @@ Revenue growth patterns on a monthly and yearly basis.
 
 📊 Predictive Analytics for forecasting future sales trends.
 
+## 📸 Dashboard Preview
+![Coffee Sales Dashboard]("C:\Users\acer\Downloads\p1ija38ftudl69uli43npr1ck64-1.png")
+
 ✍️ Author
 
 Bhumika Parihar
